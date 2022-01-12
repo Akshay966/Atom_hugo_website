@@ -1,0 +1,3 @@
+[submodule "themes/Anubis"]
+	path = themes/Anubis
+	url = https://github.com/Mitrichius/hugo-theme-anubis.git
